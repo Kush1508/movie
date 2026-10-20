@@ -1,0 +1,7 @@
+# Netlify deployment ignore
+# Exclude video files exceeding Netlify's 100MB static asset limit
+public/movies/spicy-kasukabe.mp4
+public/movies/dance-amigo.mp4
+public/movies/shinchan-special.mp4
+public/movies/test_sd.mp4
+public/movies/robot-dad.mp4
